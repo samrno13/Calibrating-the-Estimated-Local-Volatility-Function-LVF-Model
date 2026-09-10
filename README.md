@@ -15,4 +15,5 @@ A typical practice in finance is to estimate an option pricing model from market
 * Calibrating the Model
 
 **How to view**
+
 For the best experience, open the PDF directly on your computer or view the md file on GitHub. The mlx file contains the full source code and can be run in MATLAB.
