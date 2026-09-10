@@ -5,6 +5,7 @@
 **Format:** MATLAB Live Script (.mlx + .pdf)
 
 **Overview**
+
 A typical practice in finance is to estimate an option pricing model from market prices of options that are traded frequently (in other words, liquid options). The calibrated model can be used to hedge liquid options or price and hedge other (illiquid) exotic options on the same underlying. In this project, we will consider the calibration of a local volatility function (LVF) model in practice.
 
 **Content**
